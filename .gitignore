@@ -1,0 +1,10 @@
+.DS_Store
+
+TIMECARD.txt
+
+node_modules
+bigchaindb
+fiddle
+
+.env
+Note*txt
